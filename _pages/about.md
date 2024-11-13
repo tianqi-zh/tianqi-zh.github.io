@@ -21,7 +21,7 @@ Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
 
 ## Research Publications
 
-<div style="display: flex; margin-bottom: 40px;">
+<div style="display: flex; margin-bottom: 40px; background-color: white;">
   <embed src="../images/palletization.pdf" style="width: 100%; height: 150px; object-fit: contain; margin-right: 10px;">
   <p style="width: 50%; line-height: 1.6; font-size: 18px;">
     Physics-Aware Robotic Palletization with Online Masking Inference<br>
@@ -29,7 +29,7 @@ Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
   </p>
 </div>
 
-<div style="display: flex; margin-bottom: 40px;">
+<div style="display: flex; margin-bottom: 40px; background-color: white;">
   <embed src="../images/palletization.pdf" style="width: 100%; height: 150px; object-fit: contain; margin-right: 10px;">
   <p style="width: 50%; line-height: 1.6; font-size: 18px;">
     Predictive Lagrangian Optimization for Constrained Reinforcement Learning<br>
