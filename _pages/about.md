@@ -22,16 +22,16 @@ Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
 ## Research Publications
 
 <div style="display: flex; margin-bottom: 40px; background-color: white;">
-  <img src="../images/palletization.png" style="height: 100px; margin-right: 10px;">
-  <p style="flex-grow: 1; line-height: 1.6; font-size: 18px;">
+  <img src="../images/palletization.png" style="width: 200px; margin-right: 10px;">
+  <p style="flex-grow: 1; line-height: 1.6; font-size: 16px;">
     Physics-Aware Robotic Palletization with Online Masking Inference<br>
     <strong>Tianqi Zhang</strong>, Zheng Wu, Yuxin Chen, Yixiao Wang, Boyuan Liang, Scott Moura, Masayoshi Tomizuka, Mingyu Ding, Wei Zhan<br>
   </p>
 </div>
 
 <div style="display: flex; margin-bottom: 40px; background-color: white;">
-  <img src="../images/palletization.png" style="height: 100px; margin-right: 10px;">
-  <p style="flex-grow: 1; line-height: 1.6; font-size: 18px;">
+  <img src="../images/PLO.png" style="width: 200px; margin-right: 10px;">
+  <p style="flex-grow: 1; line-height: 1.6; font-size: 16px;">
     Predictive Lagrangian Optimization for Constrained Reinforcement Learning<br>
     <strong>Tianqi Zhang</strong>, Puzhen Yuan, Guojian Zhan, Ziyu Lin, Yao Lyu, Zhenzhi Qin, Jingliang Duan, Liping Zhang, Shengbo Eben Li<br>
   </p>
