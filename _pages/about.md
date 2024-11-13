@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm Tianqi Zhang, an underguaduate student from Tsinghua University, majoring in Mathematics and Physics & Measurement Control Technology and Instruments. 
-During my studies at Tsinghua University, I have interned in [iDLAB]{http://www.idlab-tsinghua.com/thulab/labweb/index.html} led by [Shengbo Li]{https://www.svm.tsinghua.edu.cn/essay/80/1812.html}.
+During my studies at Tsinghua University, I have interned in [iDLAB](http://www.idlab-tsinghua.com/thulab/labweb/index.html) led by [Shengbo Li](https://www.svm.tsinghua.edu.cn/essay/80/1812.html).
 I was very fortunate to have the opportunity to go to UC Berkeley for summer research at the end of my junior year, where I was advised by [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/) and worked closely with [Mingyu Ding](https://dingmyu.github.io/) and [Wei Zhan](https://zhanwei.site/).
 
 I am interested in robot learning and computer vision.
@@ -17,7 +17,11 @@ I am interested in robot learning and computer vision.
 
 Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
 
+
+
+### Research Publications
+
 <div style="display: flex;">
-  <img src="../images/profile.png" alt="test" style="width: 50%; margin-right: 10px;">
-  <p style="width: 50%;">ICRA25</p>
+  <embed src="../images/palletization.pdf" width="45%" height="500px" style="margin-right: 10px;">
+  <p style="width: 50%;">ICRA 25</p>
 </div>
