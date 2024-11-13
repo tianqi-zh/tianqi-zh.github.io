@@ -16,3 +16,8 @@ I am interested in robot learning and computer vision.
 + Computer vision: I hope to develop a foundation model for 3D segmentation that can generalize across various domains and applications, enabling efficient and accurate segmentation of 3D objects in complex environments.
 
 Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
+
+<div style="display: flex;">
+  <img src="../images/profile.png" alt="test" style="width: 50%; margin-right: 10px;">
+  <p style="width: 50%;">ICRA25</p>
+</div>
