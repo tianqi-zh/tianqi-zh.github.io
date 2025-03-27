@@ -22,7 +22,7 @@ Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
 ## Research Publications
 
 <div style="display: flex; margin-bottom: 40px; background-color: white;">
-  <img src="../images/palletization.png" style="width: 280px; height: auto; margin-right: 10px;">
+  <img src="../images/palletization.png" style="width: 280px; height: auto; margin-right: 10px; align-self: flex-start;">
   <p style="flex-grow: 1; line-height: 1.6; font-size: 16px;">
     <strong>Physics-Aware Robotic Palletization with Online Masking Inference</strong><br>
     <span style="display: block; margin-top: 5px; font-size: 14px;"><strong>Tianqi Zhang</strong>, Zheng Wu, Yuxin Chen, Yixiao Wang, Boyuan Liang, Scott Moura, Masayoshi Tomizuka, Mingyu Ding, Wei Zhan</span><br>
