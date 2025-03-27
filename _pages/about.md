@@ -25,8 +25,12 @@ Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
   <img src="../images/palletization.png" style="width: 280px; height: auto; margin-right: 10px; align-self: flex-start;">
   <p style="flex-grow: 1; line-height: 1.6; font-size: 16px;">
     <strong>Physics-Aware Robotic Palletization with Online Masking Inference</strong><br>
-    <span style="display: block; margin-top: 5px; font-size: 14px;"><strong>Tianqi Zhang</strong>, Zheng Wu, Yuxin Chen, Yixiao Wang, Boyuan Liang, Scott Moura, Masayoshi Tomizuka, Mingyu Ding, Wei Zhan</span><br>
-    <span style="display: block; font-size: 14px; color: #555;">ICRA 2025</span>
+    <span style="display: block; margin-top: 5px; font-size: 14px;">
+      <strong>Tianqi Zhang</strong>, Zheng Wu, Yuxin Chen, Yixiao Wang, Boyuan Liang, Scott Moura, Masayoshi Tomizuka, Mingyu Ding, Wei Zhan
+    </span>
+    <span style="display: block; font-size: 14px; color: #555;">
+      ICRA 2025
+    </span>
     <a href="https://arxiv.org/abs/2502.13443" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 14px;">[arXiv]</a> |
     <a href="https://github.com/tianqi-zh/palletization" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 14px;">[GitHub]</a>
   </p>
