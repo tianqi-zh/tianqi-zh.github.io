@@ -37,7 +37,7 @@ Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
 </div>
 
 <div style="display: flex; margin-bottom: 40px; background-color: white;">
-  <img src="../images/palletization.png" style="width: 280px; height: auto; margin-right: 10px; align-self: flex-start;">
+  <img src="../images/PLO.png" style="width: 280px; height: auto; margin-right: 10px; align-self: flex-start;">
   <p style="flex-grow: 1; line-height: 1.6; font-size: 16px;">
     <strong>Predictive Lagrangian Optimization for Constrained Reinforcement Learning</strong><br>
     <span style="display: block; margin-top: 5px; font-size: 14px;"><strong>Tianqi Zhang</strong>, Puzhen Yuan, Guojian Zhan, Ziyu Lin, Yao Lyu, Zhenzhi Qin, Jingliang Duan, Liping Zhang, Shengbo Eben Li</span><br>
