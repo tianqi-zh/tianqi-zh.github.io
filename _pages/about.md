@@ -13,7 +13,7 @@ I was very fortunate to have the opportunity to go to UC Berkeley for summer res
 
 Here is my research interests:
 + **Robot learning**: Using a robotic arm as the platform, I aim to make robots more practical by developing more robust and secure algorithms.
-+ **Computer vision**: I hope to develop a foundation model for 3D segmentation that can generalize across various domains and applications, enabling efficient and accurate segmentation of 3D objects in complex environments.
++ **Computer vision**: I'm interested in leveraging diffusion models for dense prediction tasks, such as depth estimation, and dense point tracking.
 
 Feel free to contact me via email zhang-tq21@mails.tsinghua.edu.cn !
 
